@@ -1,3 +1,1 @@
-Ignore z*
-Ignore .env
-Ignore /artifacts/
+Ignore .env, /artifacts/, z*
